@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/clear"
+          android:title="@string/clear"
+          android:showAsAction="always"/>
+    
+    <item android:id="@+id/store"
+          android:title="@string/store"
+          android:showAsAction="always"/>
+    
+        <item android:id="@+id/recall"
+          android:title="@string/recall"
+          android:showAsAction="always"/>
+
+</menu>
